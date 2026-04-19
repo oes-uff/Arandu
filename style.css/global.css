@@ -4,11 +4,11 @@
       box-sizing: border-box;
     }
     :root {
-      --brand-colorlight: #d2d3d5;
-      --brand-colordark: #e8eaed;
+      --brand-colorlight: #E1FAFA;
+      --brand-colordark: #E1FAFA;
       --bg-color:#0636a4;
       --stroke-color:#4973DE;;
-      --text-color-primary: #f1f5f9;
+      --text-color-primary: #E1FAFA;
       --text-color-secondary:#1353a0;
 
       --font-family: 'Montserrat', sans-serif;
