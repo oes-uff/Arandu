@@ -6,23 +6,24 @@
     :root {
       --brand-colorlight: #d2d3d5;
       --brand-colordark: #e8eaed;
-      --bg-color:#efefef;
-      --stroke-color:#4973DE;;  
+      --bg-color:#0636a4;
+      --stroke-color:#4973DE;;
       --text-color-primary: #f1f5f9;
-      --text-color-secondary:#CBD5E1;
+      --text-color-secondary:#1353a0;
 
       --font-family: 'Montserrat', sans-serif;
       --h1:800 24px/135% var(--font-family);
       --h2:800 16px/140% var(--font-family);
       --h3:800 14px/140% var(--font-family);
-      --text-span:600 14px/145% var(--font-family);
       --text:400 16px/140% var(--font-family);
+      --text-span:600 14px/145% var(--font-family);
       --text-small:400 14px/160% var(--font-family);
     }
     body {
-      font:var(--text);
+      font: var(--text);
       background-color: var(--bg-color);
       color: var(--text-color-primary);
+      font-family: var(--font-family);
     }
     a {
       color: inherit;
